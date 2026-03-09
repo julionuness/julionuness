@@ -1,7 +1,5 @@
 <h1 align="center">👋 julionuness</h1>
 
-# Tecnologias
-
 > Backend
 <br>
 <div align="center" style="display: inline_block;">
