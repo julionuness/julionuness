@@ -45,7 +45,7 @@
 
 #
 
-> Contato
+> Contact me
 <br>
 <div align="center">
   <a href="mailto:juliocnsilva.28@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
